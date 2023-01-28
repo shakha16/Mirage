@@ -1,0 +1,76 @@
+body {
+    font-family: "Circular Medium", sans-serif;
+    font-style: normal;
+}
+
+.container {
+    width: 1265px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+.style1 {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 40px;
+}
+
+.style2 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.style3 {
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 72px;
+}
+
+.style4 {
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 72px;
+}
+
+.style5 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.style6 {
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 62px;
+}
+
+.style7 {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.style8 {
+    font-weight: 450;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.style9 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+}
